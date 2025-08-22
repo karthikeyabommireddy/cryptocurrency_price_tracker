@@ -2,11 +2,12 @@
 
 A comprehensive, real-time cryptocurrency tracking application built with React, TypeScript, and Tailwind CSS. Monitor market trends, manage your portfolio, and stay updated with the latest crypto prices.
 
-![CryptoTracker Pro](https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/3eddf17c-d2d9-486d-9f80-f93a8aa96119" />
+
 
 ## 🚀 Live Demo
 
-**[View Live Application](https://comprehensive-crypto-uw3j.bolt.host)**
+**[View Live Application](https://cryptopricetrackerbykarthikeya.netlify.app/)**
 
 ## ✨ Features
 
@@ -60,8 +61,8 @@ A comprehensive, real-time cryptocurrency tracking application built with React,
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd crypto-tracker-pro
+   git clone <>
+   cd cryptocurrency_price_tracker
    ```
 
 2. **Install dependencies**
