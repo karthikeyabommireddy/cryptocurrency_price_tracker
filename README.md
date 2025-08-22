@@ -61,7 +61,7 @@ A comprehensive, real-time cryptocurrency tracking application built with React,
 
 1. **Clone the repository**
    ```bash
-   git clone <>
+   git clone https://github.com/karthikeyabommireddy/cryptocurrency_price_tracker.git
    cd cryptocurrency_price_tracker
    ```
 
